@@ -1,5 +1,5 @@
 # crakk
 
-This is an UI for an ongoing GPU-based cracker project.
+This is UI for an ongoing GPU-based dictionary-/brute-cracker project.
 
 You could contribute by writing for a module
